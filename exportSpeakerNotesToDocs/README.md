@@ -13,10 +13,9 @@ This speaker notes below will be exported to that docs.
 ## Usage
 
 1. Open a Google slide.
-2. Click on "Tools" from the menu.
-3. Click on "Script editor" from the list.
-4. Copy and paste `Code.gs` into the script.
-5. Save the script then click on "Run" following to export the speaker notes to Docs.
+2. Click on "Tools" from the menu and select "Script editor" from the list.
+3. Copy and paste `Code.gs` into the script.
+4. Save the script then click on "Run" following to export the speaker notes to Docs.
 
 ## Caution
 
