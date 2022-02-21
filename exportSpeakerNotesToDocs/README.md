@@ -2,6 +2,14 @@
 
 A utility exporting speaker notes to Docs
 
+## Example
+
+This speaker notes below will be exported to that docs.
+
+![slides](https://github.com/ajfAfg/google-apps-script-utilities/blob/images/exportSpeakerNotesToDocs/slides.png)
+
+![docs](https://github.com/ajfAfg/google-apps-script-utilities/blob/images/exportSpeakerNotesToDocs/docs.png)
+
 ## Usage
 
 1. Open a Google slide.
