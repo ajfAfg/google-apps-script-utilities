@@ -17,3 +17,10 @@ This speaker notes below will be exported to that docs.
 3. Click on "Script editor" from the list.
 4. Copy and paste `Code.gs` into the script.
 5. Save the script then click on "Run" following to export the speaker notes to Docs.
+
+## Caution
+
+This script requires your permissions to access your data, so Google will warn you. The permissions required by this script are as follows.
+
+- See, edit, create, and delete all your Google Slides presentations
+- See, edit, create, and delete all your Google Docs documents
